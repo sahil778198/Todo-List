@@ -47,6 +47,4 @@ This is a simple, interactive To-Do List application that helps users manage the
 - Dark/light mode toggle.  
 - Drag-and-drop task reordering.  
 
----
 
-Hope this helps! 🚀 Let me know if you need any modifications. 😊
